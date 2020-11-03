@@ -1,2 +1,2 @@
-# Class20
-Algorithm for collision between fixed rect and moving rect, algorithm for bounceOff between moving rect and fixed rect.
+# p5.play-boilerplate
+Boiler plate for p5.play
